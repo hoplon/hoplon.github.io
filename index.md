@@ -1,56 +1,50 @@
 ---
 layout: home
 class: home
-logo: /assets/images/logos/boot-logo-3.png
-h1: Boot
-h2: Build tooling for Clojure
+logo: /assets/images/logos/hoplon-logo.png
+h1: Hoplon
+h2: ClojureScript Web Framework
 actions:
 - title: Get Started
-  href: https://github.com/boot-clj/boot#install
+  href: https://github.com/hoplon/hoplon/wiki#get-started
 ---
 
 <div class="promo">
-  <div class="promo-graphic">
-    <img src="/assets/images/graphics/clojure-3.png"/>
-  </div>
-  <div class="promo-text">
-    <h2>Builds are programs.  Let's start treating them that way.</h2>
-    <p>Most build tools are <a href="http://en.wikipedia.org/wiki/Declarative_programming">declarative</a>, and for a long time they worked well for us.  The problem is that the increasing number of platform, framework, and library combinations have made it impossible for these tools to be both declarative and comprehensive.  Instead of a special-purpose <a href="http://en.wikipedia.org/wiki/Domain-specific_language">DSL</a>, Boot supplies abstractions and libraries you can use to automate nearly any build scenario with the full power of the <a href="http://clojure.org/">Clojure</a> language.  It's not a build tool - it's build tooling.
-    </p>
+  <div>
+    <h2>Clojure and ClojureScript, everywhere.</h2>
+    <p>The web is a popular and compelling application platform. While it's
+      technically possible to make almost anything out of HTML and JavaScript,
+      it's rarely easy. Hoplon is a set
+      of <a href="http://clojure.org">Clojure</a> and
+      <a href="https://github.com/clojure/clojurescript">ClojureScript</a>
+      libraries that pave over the web's idiosyncrasies and present a simpler
+      way to design and build single-page web applications.
+      </p>
   </div>
 </div>
 
 <div class="features">
   <ul>
     <li>
-      <img src="/assets/images/graphics/tree.png"/>
-      <strong>Managed filesystem tree</strong>
-      <span>provides a scoped, immutable, append-only <a href="https://github.com/boot-clj/boot/wiki/Filesets">interface</a> for communicating between tasks.</span>
+      <img src="/assets/images/graphics/custom-elements.png"/>
+      <strong>Custom HTML elements are just functions</strong>
+      <span>and can be created and composed functionally with <a href="https://github.com/hoplon/hoplon/wiki/HLisp">HLisp</a>.</span>
     </li>
     <li>
-      <img src="/assets/images/graphics/classloader.png"/>
-      <strong>Easy classpath isolation</strong>
-      <span>with <a href="https://github.com/boot-clj/boot/wiki/Pods">pods.</a> Provides separate Clojure runtimes without separate JVMs.</span>
-    </li>
-    <li>
-      <img src="/assets/images/graphics/pipeline.png"/>
-      <strong>Compose build pipelines</strong>
-      <span>in the project, in the build script, in the REPL, or on the command line.</span>
-    </li>
-    <li>
-      <img src="/assets/images/graphics/exe.png"/>
-      <strong>Write quick Clojure scripts</strong>
-      <span>without a project context using <a href="https://github.com/boot-clj/boot/wiki/Scripts">shebang support.</a></span>
+      <img src="/assets/images/graphics/spreadsheet.png"/>
+      <strong>Spreadsheet-like dataflow</strong>
+      <span>with the <a href="https://github.com/hoplon/javelin">Javelin</a> ClojureScript library.  Intuitively model reactive behavior using cells and formulas.</span>
     </li>
     <li>
       <img src="/assets/images/graphics/uncoupled.png"/>
-      <strong>Tasks are not coupled</strong>
-      <span>via hardcoded file paths or magical keys in a global configuration map.</span>
-    </li>
-    <li>
-      <img src="/assets/images/graphics/fresh.png"/>
-      <strong>Artifacts can never be stale.</strong>
-      <span>There is no need for a <code>clean</code> task.</span>
+      <strong>Interact with the server</strong>
+      <span>with the <a href="https://github.com/hoplon/castra">Castra</a> Clojure and ClojureScript library.  Define functions on the server, call them from the client.</span>
     </li>
   </ul>
+</div>
+
+<div style="text-align:center;">
+  <a href="https://www.youtube.com/watch?v=wVXjExRiFy0">
+  <img style="border:4px solid #ce1b20; border-radius:4px;" src="/assets/images/graphics/youtube.jpg"></img>
+  </a>
 </div>

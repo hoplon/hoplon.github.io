@@ -1,3 +1,9 @@
+GIT
+  remote: git://github.com/kgrz/json.git
+  revision: e49894d3c5c2df8a43384cb36b444d8096a9ea0e
+  specs:
+    json (1.8.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -81,7 +87,6 @@ GEM
       gemoji (~> 2.0)
       html-pipeline (~> 1.9)
       jekyll (~> 2.0)
-    json (1.8.1)
     kramdown (1.3.1)
     liquid (2.6.1)
     listen (2.8.0)
@@ -124,3 +129,4 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  json!

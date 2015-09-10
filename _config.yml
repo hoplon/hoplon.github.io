@@ -1,11 +1,11 @@
 # --------------------------------------------------
 # Site settings
-title: "Boot: build tooling for Clojure"
-logo: /assets/images/logos/boot-nav-3.png
-favicon: /assets/images/logos/boot-favicon-3.png
-iosicon: /assets/images/logos/boot-iosicon-3.png
+title: "Hoplon, a ClojureScript Web Framework"
+logo: /assets/images/logos/hoplon-logo.png
+favicon: /assets/images/logos/hoplon-favicon.png
+iosicon: /assets/images/logos/hoplon-favicon.png
 company: Adzerk
-description: Build tooling for Clojure
+description: ClojureScript Web Framework
 email: info@adzerk.com
 copyright: Copyright © 2015 <a href="http://tailrecursion.com/~alan/">Alan Dipert</a>, <a href="https://github.com/micha">Micha Niskin</a>, <a href="https://github.com/somegoodpixels">Joshua Smith</a>
 adzerk_mention: true
@@ -19,8 +19,8 @@ paginate_path: /blog/page/:num
 
 # --------------------------------------------------
 # the base hostname & protocol for your site
-url: "http://boot-clj.com"
-github_username: boot-clj
+url: "http://hoplon.io"
+github_username: hoplon
 
 # --------------------------------------------------
 # Build settings
@@ -46,7 +46,9 @@ nav:
   href: http://hoplon.discoursehosting.net/
 - title: IRC
   href: http://webchat.freenode.net/?channels=hoplon
+- title: Slack
+  href: http://clojurians.net/
 - title: Wiki
-  href: https://github.com/boot-clj/boot/wiki
+  href: https://github.com/hoplon/hoplon/wiki
 - title: Code
-  href: https://github.com/boot-clj/boot
+  href: https://github.com/hoplon
