@@ -12,12 +12,6 @@ adzerk_mention: true
 exclude: [vendor]
 
 # --------------------------------------------------
-# the subpath of your site, e.g. /blog/
-permalink: /blog/:year/:month/:title
-paginate: 5
-paginate_path: /blog/page/:num
-
-# --------------------------------------------------
 # the base hostname & protocol for your site
 url: "http://hoplon.io"
 github_username: hoplon
