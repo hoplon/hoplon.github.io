@@ -12,13 +12,10 @@ actions:
 <div class="promo">
   <div>
     <h2>Clojure and ClojureScript, everywhere.</h2>
-    <p>The web is a popular and compelling application platform. While it's
-      technically possible to make almost anything out of HTML and JavaScript,
-      it's rarely easy. Hoplon is a set
-      of <a href="http://clojure.org">Clojure</a> and
+    <p>Hoplon is a set of <a href="http://clojure.org">Clojure</a> and
       <a href="https://github.com/clojure/clojurescript">ClojureScript</a>
       libraries that pave over the web's idiosyncrasies and present a simpler
-      way to design and build single-page web applications.
+      way to design and build single-page web applications.  Learn more on <a href="https://github.com/hoplon/hoplon/wiki">our wiki</a>.
       </p>
   </div>
 </div>
