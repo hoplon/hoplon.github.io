@@ -149,7 +149,7 @@ var site = {
 				}
 			});
 		}
-		link_helper();
+		//link_helper();
 		
 		// tabset helper
 		function tabsets(){
