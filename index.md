@@ -43,8 +43,8 @@ actions:
   </ul>
 </div>
 
-<div style="text-align:center;">
-  <a href="https://www.youtube.com/watch?v=wVXjExRiFy0">
-  <img style="border:4px solid #ce1b20; border-radius:4px;" src="/assets/images/graphics/youtube.jpg"></img>
-  </a>
-</div>
+<!-- <div style="text-align:center;"> -->
+<!--   <a href="https://www.youtube.com/watch?v=wVXjExRiFy0"> -->
+<!--   <img style="border:4px solid #ce1b20; border-radius:4px;" src="/assets/images/graphics/youtube.jpg"></img> -->
+<!--   </a> -->
+<!-- </div> -->
