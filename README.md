@@ -1,6 +1,6 @@
-# boot-clj.com
+# hoplon.io
 
-The [boot-clj.com](http://boot-clj.com) website source.
+The [hoplon.io](http://hoplon.io) website source.
 
 ## Development
 
