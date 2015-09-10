@@ -6,7 +6,7 @@ h1: Hoplon
 h2: ClojureScript Web Framework
 actions:
 - title: Get Started
-  href: https://github.com/hoplon/hoplon/wiki#get-started
+  href: https://github.com/hoplon/hoplon/wiki/Get-Started
 ---
 
 <div class="promo">
