@@ -26,17 +26,17 @@ actions:
 <div class="features">
   <ul>
     <li>
-      <img src="/assets/images/graphics/custom-elements.png"/>
+      <img alt="Custom Elements icon" src="/assets/images/graphics/custom-elements.png"/>
       <strong>Custom HTML elements are just functions</strong>
       <span>and can be created and composed functionally with <a href="https://github.com/hoplon/hoplon/wiki/HLisp">HLisp</a>.</span>
     </li>
     <li>
-      <img src="/assets/images/graphics/spreadsheet.png"/>
+      <img alt="Spreadsheet Icon" src="/assets/images/graphics/spreadsheet.png"/>
       <strong>Spreadsheet-like dataflow</strong>
       <span>with the <a href="https://github.com/hoplon/javelin">Javelin</a> ClojureScript library.  Intuitively model reactive behavior using cells and formulas.</span>
     </li>
     <li>
-      <img src="/assets/images/graphics/uncoupled.png"/>
+      <img alt="Castra Icon" src="/assets/images/graphics/uncoupled.png"/>
       <strong>Interact with the server</strong>
       <span>with the <a href="https://github.com/hoplon/castra">Castra</a> Clojure and ClojureScript library.  Define functions on the server, call them from the client.</span>
     </li>
